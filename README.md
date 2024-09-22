@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Cristhofer
+- 👀 I’m interested in Technical Writing
+- 🌱 I’m currently learning Software Development
+- 💞️ I’m looking to collaborate on Technical Writing
+- 📫 How to reach 
